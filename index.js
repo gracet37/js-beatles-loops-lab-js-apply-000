@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians,instruments) {
   return X;
 }
 
-
+// Return list of John Lennon facts
 function johnLennonFacts(facts) {
  var Y = [];
  let i = 0;
@@ -18,6 +18,7 @@ function johnLennonFacts(facts) {
  }
  return Y
 }
+
 
 function iLoveTheBeatles(n) {
   var Z = [];
