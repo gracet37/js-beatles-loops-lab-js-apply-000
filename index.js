@@ -1,4 +1,5 @@
 // add solution here
+// Return a string to describe artist and the instrument they play
 function theBeatlesPlay(musicians,instruments) {
   var X = [];
   for (let i = 0; i < musicians.length; i++) {
